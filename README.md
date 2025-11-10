@@ -12,7 +12,7 @@ Me motiva aprender, experimentar con nuevas herramientas y construir proyectos c
 
 ## 🧩 Proyectos destacados
 
-#### ⚙️ [WindowsServiceFTP](https://github.com/GyurselM/WindowsServiceFTP) 
+### ⚙️ [WindowsServiceFTP](https://github.com/GyurselM/WindowsServiceFTP) 
 
 Servicio de Windows desarrollado en C# que transfiere archivos entre servidores mediante SFTP, con registro de logs personalizados y despliegue automatizado con Docker y Azure DevOps.
 
@@ -20,7 +20,7 @@ Servicio de Windows desarrollado en C# que transfiere archivos entre servidores 
     
 ---
 
-#### 🎯 [TarjetaFidelizacion](https://github.com/JavierGonzalezMartos/TarjetaFidelizacion) 
+### 🎯 [TarjetaFidelizacion](https://github.com/JavierGonzalezMartos/TarjetaFidelizacion) 
 
 Aplicación de gestión de clientes y puntos de fidelización, desarrollada en .NET MAUI. Cuenta con validación de datos, arquitectura MVVM, y conexión local con SQL Server.
 
@@ -28,7 +28,7 @@ Aplicación de gestión de clientes y puntos de fidelización, desarrollada en .
 
 ---
 
-#### 🎮 [TFG-InTheBreak](https://github.com/GyurselM/TFG-InTheBreak) 
+### 🎮 [TFG-InTheBreak](https://github.com/GyurselM/TFG-InTheBreak) 
 
 Proyecto de videojuego 2D en Unity. Participé en la programación de la lógica del juego, diseño de assets y revisión del código del equipo.
 
@@ -36,7 +36,7 @@ Proyecto de videojuego 2D en Unity. Participé en la programación de la lógica
 
 ---
 
-#### 🧠 [iOS Memory Game](https://github.com/GyurselM/iOS) 
+### 🧠 [iOS Memory Game](https://github.com/GyurselM/iOS) 
 
 Pequeño juego de memoria creado para iOS, donde el usuario debe recordar la posición de las cartas. Fue mi primer acercamiento al desarrollo en Swift, centrado en la lógica del juego y la interfaz intuitiva.
 
@@ -45,7 +45,7 @@ Pequeño juego de memoria creado para iOS, donde el usuario debe recordar la pos
 
 ---
 
-#### 🏋️ [Fitness App](https://github.com/GyurselM/fitness) 
+### 🏋️ [Fitness App](https://github.com/GyurselM/fitness) 
 
 Aplicación web para calcular las calorías diarias y generar dietas personalizadas según tus objetivos.
 
